@@ -13,7 +13,7 @@ Before you begin, ensure you have met the following requirements:
 1. **Clone this repository:**
 
    ```bash
-
+   git clone https://github.com/DevopsDhruv/Install-Docker.git
    ```
 2. **Give permission to Script**
 Use this commad to give permission to `Install_Docker.sh` script
