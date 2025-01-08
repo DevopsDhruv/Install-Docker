@@ -2,7 +2,7 @@
 
 # This scrip will setup docker in your Ubuntu system
 
-# Version 1.0
+# Version 2.0
 # Author: Dhruv Jain
 
 # Check if docker is already installed or not
@@ -62,6 +62,7 @@ Docker-compose(){
 echo "################ Installing docker-compose ##############"
 
 sudo apt-get install docker-compose-v2 -y
+sudo apt-get install docker-compose -y
 
 echo "################ Docker-compose installed ###############"
 
